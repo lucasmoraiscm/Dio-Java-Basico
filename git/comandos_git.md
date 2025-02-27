@@ -83,7 +83,7 @@ git restore --staged diretório-do-arquivo/nome-do-arquivo
 
 # Atualizar o repositório local com as modificações do remoto
 ```
-git pull
+git pull origin main
 ```
 
 # Enviar alterações do repositório local para o remoto

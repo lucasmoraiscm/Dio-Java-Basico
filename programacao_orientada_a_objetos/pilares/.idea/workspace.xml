@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4906d48-9a25-45fb-855e-2d6f3b2fbd90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../fundamentos/escola/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentos/estados-brasileiros/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autodromo/autodromo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equipamento-multifuncional/equipamento-multifuncional.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servico-mensagem-instantanea/servico-mensagem-instantanea.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lucasmoraiscm"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lucasmoraiscm/Dio-Java-Basico.git",
+    "accountId": "90731b8c-7075-4650-a5a0-2a2ab373e0f3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2uh4Ya4E2ZUGbI1CXRegq3dVfvL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lukaz/OneDrive/COMPUTACAO/dio/Dio-Java-Basico/programacao_orientada_a_objetos/pilares"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4906d48-9a25-45fb-855e-2d6f3b2fbd90" name="Changes" comment="" />
+      <created>1742687520727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742687520727</updated>
+    </task>
+    <servers />
+  </component>
+</project>

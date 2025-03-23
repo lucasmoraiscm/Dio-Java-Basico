@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autodromo/autodromo.iml" filepath="$PROJECT_DIR$/autodromo/autodromo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conta-bancaria/conta-bancaria.iml" filepath="$PROJECT_DIR$/conta-bancaria/conta-bancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-carro/controle-carro.iml" filepath="$PROJECT_DIR$/controle-carro/controle-carro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equipamento-multifuncional/equipamento-multifuncional.iml" filepath="$PROJECT_DIR$/equipamento-multifuncional/equipamento-multifuncional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maquina-banho-pet/maquina-banho-pet.iml" filepath="$PROJECT_DIR$/maquina-banho-pet/maquina-banho-pet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pilares.iml" filepath="$PROJECT_DIR$/.idea/pilares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servico-mensagem-instantanea/servico-mensagem-instantanea.iml" filepath="$PROJECT_DIR$/servico-mensagem-instantanea/servico-mensagem-instantanea.iml" />
+    </modules>
+  </component>
+</project>
